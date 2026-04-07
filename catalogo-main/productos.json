@@ -1,0 +1,446 @@
+[
+  {
+    "id": "producto_1762987038",
+    "nombre": "Lv Skate Negra Hilo",
+    "precio": "180000",
+    "descripcion": "Envío Gratis 🚚",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/8nHJWyLp/IMG-20251106-WA0045.jpg",
+    "fecha": "2025-11-12T22:37:18.579693+00:00"
+  },
+  {
+    "id": "producto_1763081115",
+    "nombre": "Lv Skate Negra Perlas",
+    "precio": "180000",
+    "descripcion": "Envío Gratis 🚚",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/LX42vpvW/IMG-20251107-WA0088.jpg",
+    "fecha": "2025-11-14T00:45:15.984716+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1763000058",
+    "nombre": "Lv Skate Blanca Beige",
+    "precio": "180000",
+    "descripcion": "Envío Gratis 🚚",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/q3Ys9sSZ/Imagen-de-Whats-App-2025-11-17-a-las-13-43-30-34c01b8a.jpg",
+    "fecha": "2025-11-13T02:14:18.533977+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1763787501",
+    "nombre": "OFF-WHITE",
+    "precio": "180000",
+    "descripcion": "Envío Gratis🚚",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/0pH23Mh2/img-jpg.jpg",
+    "imagenes": [
+      "https://i.ibb.co/CpnBZwVc/img-jpg.jpg",
+      "https://i.ibb.co/MxFFRW1y/img-jpg.jpg"
+    ],
+    "videos": [],
+    "fecha": "2025-11-22T04:58:21.226076+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1763001380",
+    "nombre": "LV Skate Azul",
+    "precio": "180000",
+    "descripcion": "Envío Gratis 🚚",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/27P7KYdP/IMG-20251108-WA0080.jpg",
+    "fecha": "2025-11-13T02:36:20.591389+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1763001579",
+    "nombre": "Valentino Blanca",
+    "precio": "150000",
+    "descripcion": "Envío Gratis 🚚",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/v6c423KZ/IMG-20251112-WA0165.jpg",
+    "fecha": "2025-11-13T02:39:39.876669+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1763071263",
+    "nombre": "LV Skate Azul Hilo",
+    "precio": "180000",
+    "descripcion": "Envío Gratis 🚚",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/Cpjt3YyG/IMG-20251107-WA0075.jpg",
+    "fecha": "2025-11-13T22:01:03.124227+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1763071308",
+    "nombre": "LV Skate Morada",
+    "precio": "180000",
+    "descripcion": "Envío Gratis 🚚",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/Q33sY6Qs/IMG-20251107-WA0090.jpg",
+    "fecha": "2025-11-13T22:01:48.704016+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1763072147",
+    "nombre": "Lv Skate Blanca Café",
+    "precio": "180000",
+    "descripcion": "Envío Gratis 🚚",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/cV6jKyk/IMG-20251112-WA0164.jpg",
+    "fecha": "2025-11-13T22:15:47.064151+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1763080622",
+    "nombre": "Lv TSkate Negra",
+    "precio": "180000",
+    "descripcion": "Envío Gratis 🚚",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/Z77v2Pf/IMG-20251116-WA0126.jpg",
+    "fecha": "2025-11-14T00:37:02.539686+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1763081167",
+    "nombre": "Lv TSkate Oscura Hilo",
+    "precio": "180000",
+    "descripcion": "Envío Gratis 🚚",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/tpSDwh6n/IMG-20251107-WA0089.jpg",
+    "fecha": "2025-11-14T00:46:07.172213+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1763081215",
+    "nombre": "Lv Skate Negra Blanca",
+    "precio": "180000",
+    "descripcion": "Envío Gratis 🚚",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/vCrdCLf5/IMG-20251104-WA0294.jpg",
+    "fecha": "2025-11-14T00:46:55.726007+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1763081269",
+    "nombre": "Lv Skate Blanca Gris",
+    "precio": "180000",
+    "descripcion": "Envío Gratis 🚚",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/xKSQYSqn/IMG-20251108-WA0031.jpg",
+    "fecha": "2025-11-14T00:47:49.678355+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1763081330",
+    "nombre": "Lv Trainer Gris Claro",
+    "precio": "180000",
+    "descripcion": "Envío Gratis 🚚",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/8LNCdsyg/IMG-20251108-WA0079.jpg",
+    "fecha": "2025-11-14T00:48:50.217132+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1763081393",
+    "nombre": "Lv TSkate Azul",
+    "precio": "180000",
+    "descripcion": "Envío Gratis 🚚",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/fzBbNj1x/IMG-20251108-WA0078.jpg",
+    "fecha": "2025-11-14T00:49:53.193430+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1763081447",
+    "nombre": "Lv Skate Blanca",
+    "precio": "180000",
+    "descripcion": "Envío Gratis 🚚",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/9Hkss1kM/IMG-20251108-WA0077.jpg",
+    "fecha": "2025-11-14T00:50:47.131041+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1763081639",
+    "nombre": "Nike Air Max Pirata",
+    "precio": "180000",
+    "descripcion": "Envío Gratis 🚚",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/5gPTrqvJ/IMG-20251116-WA0103.jpg",
+    "fecha": "2025-11-14T00:53:59.367606+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1763081730",
+    "nombre": "Retro 1 Negra Roja Swarovski",
+    "precio": "180000",
+    "descripcion": "Envío Gratis 🚚",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/KpdNKGMn/IMG-20251116-WA0107.jpg",
+    "fecha": "2025-11-14T00:55:30.390859+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1763081888",
+    "nombre": "Lv TSkate Gris Logos",
+    "precio": "180000",
+    "descripcion": "Envío Gratis 🚚",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/35J03qHC/IMG-20251108-WA0032.jpg",
+    "fecha": "2025-11-14T00:58:08.853674+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1763226187",
+    "nombre": "Nike Air Forcé 1",
+    "precio": "120000",
+    "descripcion": "Envío Gratis 🚚",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/6JVXjmWf/IMG-20251115-WA0039.jpg",
+    "fecha": "2025-11-15T17:03:07.016018+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1763226220",
+    "nombre": "Nike Air Forcé 1 Bota",
+    "precio": "140000",
+    "descripcion": "Envío Gratis 🚚",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/99jN8nt3/IMG-20251115-WA0141.jpg",
+    "fecha": "2025-11-15T17:03:40.933015+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1763784762",
+    "nombre": "Adidas Yeezy Slide",
+    "precio": "90000",
+    "descripcion": "Envío Gratis 🚚",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/rfwFSPJS/producto-1763784761-jpg.jpg",
+    "fecha": "2025-11-22T04:12:42.840338+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1763787580",
+    "nombre": "TN Camaleón",
+    "precio": "175000",
+    "descripcion": "Envío Gratis 🚚",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/tTwPd3zd/img-jpg.jpg",
+    "imagenes": [
+      "https://i.ibb.co/84cVsJVF/producto-1763787043-jpg.jpg",
+      "https://i.ibb.co/35Y9kDjk/img-jpg.jpg"
+    ],
+    "videos": [],
+    "fecha": "2025-11-22T04:59:40.703304+00:00",
+    "agregado_por": "Nicolas"
+  },
+  {
+    "id": "producto_1764023834",
+    "nombre": "Hoodie Y2K Dólar Gris",
+    "precio": "150000",
+    "descripcion": "",
+    "tallas": "",
+    "categoria": "ropa",
+    "imagen": "https://i.ibb.co/gZkf2rMf/img-jpg.jpg",
+    "imagenes": [
+      "https://i.ibb.co/xtJ45Dfy/img-jpg.jpg",
+      "https://i.ibb.co/S4P2TYMt/img-jpg.jpg"
+    ],
+    "videos": [],
+    "fecha": "2025-11-24T22:37:14.482380+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1764023869",
+    "nombre": "Hoodie Y2K Dólar Negro",
+    "precio": "150000",
+    "descripcion": "",
+    "tallas": "",
+    "categoria": "ropa",
+    "imagen": "https://i.ibb.co/mrdc0PvF/img-jpg.jpg",
+    "imagenes": [
+      "https://i.ibb.co/ZzRh8Bsp/img-jpg.jpg"
+    ],
+    "videos": [],
+    "fecha": "2025-11-24T22:37:49.408932+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1764099485",
+    "nombre": "Chaqueta Audi RS F1",
+    "precio": "130000",
+    "descripcion": "",
+    "tallas": "",
+    "categoria": "ropa",
+    "imagen": "https://i.ibb.co/03BTSVv/img-jpg.jpg",
+    "imagenes": [],
+    "videos": [],
+    "fecha": "2025-11-25T19:38:05.168963+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1764100342",
+    "nombre": "Chaqueta KTM Ready To Race",
+    "precio": "130000",
+    "descripcion": "",
+    "tallas": "",
+    "categoria": "ropa",
+    "imagen": "https://i.ibb.co/MyZcyztK/img-jpg.jpg",
+    "imagenes": [],
+    "videos": [],
+    "fecha": "2025-11-25T19:52:22.977394+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1764638111",
+    "nombre": "Bota Timberland",
+    "precio": "230000",
+    "descripcion": "",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/bMj3bPKn/img-jpg.jpg",
+    "imagenes": [],
+    "videos": [],
+    "fecha": "2025-12-02T01:15:11.574942+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1765998971",
+    "nombre": "Asics",
+    "precio": "190000",
+    "descripcion": "",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/N6QpfsSy/img-jpg.jpg",
+    "imagenes": [
+      "https://i.ibb.co/1fpSVTg6/img-jpg.jpg",
+      "https://i.ibb.co/xtJyDG4j/img-jpg.jpg",
+      "https://i.ibb.co/sJkVFSZG/img-jpg.jpg",
+      "https://i.ibb.co/j9XLBv0M/img-jpg.jpg"
+    ],
+    "videos": [],
+    "fecha": "2025-12-17T19:16:11.504075+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1765999239",
+    "nombre": "Adidas Súper Star Blessd",
+    "precio": "150000",
+    "descripcion": "",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/QjXvJ5rq/img-jpg.jpg",
+    "imagenes": [
+      "https://i.ibb.co/5XQJWQtH/img-jpg.jpg"
+    ],
+    "videos": [],
+    "fecha": "2025-12-17T19:20:39.169403+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1765999459",
+    "nombre": "Jordan Cereza",
+    "precio": "160000",
+    "descripcion": "",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/WZWxMmz/img-jpg.jpg",
+    "imagenes": [],
+    "videos": [],
+    "fecha": "2025-12-17T19:24:19.777436+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1765999558",
+    "nombre": "Adidas Yezzy 700 V3",
+    "precio": "160000",
+    "descripcion": "",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/YBdVRM75/img-jpg.jpg",
+    "imagenes": [
+      "https://i.ibb.co/zVKYpvHC/img-jpg.jpg"
+    ],
+    "videos": [],
+    "fecha": "2025-12-17T19:25:58.515289+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1766000002",
+    "nombre": "Air Jordan 4",
+    "precio": "160000",
+    "descripcion": "",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/jZ6ykppN/img-jpg.jpg",
+    "imagenes": [
+      "https://i.ibb.co/jPrpM1tk/img-jpg.jpg",
+      "https://i.ibb.co/N2HLXPvW/img-jpg.jpg"
+    ],
+    "videos": [],
+    "fecha": "2025-12-17T19:33:22.392727+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1766001919",
+    "nombre": "Nike Air Max",
+    "precio": "150000",
+    "descripcion": "",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/qFcr0SFV/img-jpg.jpg",
+    "imagenes": [
+      "https://i.ibb.co/hFBnsWXt/img-jpg.jpg",
+      "https://i.ibb.co/RkJz8cm3/img-jpg.jpg",
+      "https://i.ibb.co/Q7nCBj6x/img-jpg.jpg",
+      "https://i.ibb.co/JF5cgQmd/img-jpg.jpg"
+    ],
+    "videos": [],
+    "fecha": "2025-12-17T20:05:19.674222+00:00",
+    "agregado_por": "S"
+  },
+  {
+    "id": "producto_1766001982",
+    "nombre": "Adizero",
+    "precio": "160000",
+    "descripcion": "",
+    "tallas": "",
+    "categoria": "zapatillas",
+    "imagen": "https://i.ibb.co/4gVRjVBR/img-jpg.jpg",
+    "imagenes": [
+      "https://i.ibb.co/6RH16qZq/img-jpg.jpg",
+      "https://i.ibb.co/9H4P6Ds1/img-jpg.jpg",
+      "https://i.ibb.co/V06Q3QjF/img-jpg.jpg"
+    ],
+    "videos": [],
+    "fecha": "2025-12-17T20:06:22.271957+00:00",
+    "agregado_por": "S"
+  }
+]
