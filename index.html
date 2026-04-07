@@ -551,7 +551,7 @@ function setupSearch() {
 
 function consultar(n,p,t) {
   const phone = CONFIG.whatsappNumbers[0];
-  const msg = `Hola! Estoy interesado en *${n}*.\nPrecio: ${fmtPrice(p)}${t?`\nTallas: ${t}`:\'\'}.\n¿Está disponible?`;
+  const msg = `Hola! Estoy interesado en *${n}*.\nPrecio: ${fmtPrice(p)}${t ? `\nTallas: ${t}` : ''}.\n¿Está disponible?`;
   window.open(`https://wa.me/${phone}?text=${encodeURIComponent(msg)}`, '_blank');
 }
 function contactar(e) {
